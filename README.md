@@ -1,2 +1,2 @@
-# cicd
+# CICD
 `Python for CICD`
